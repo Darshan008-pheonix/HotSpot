@@ -1,0 +1,33 @@
+1.The robbers decide to rob houses in a colony.They decide to rob houses till
+their target is reached.The target will be in the terms of gold.Each houses will be filled with some specified number of gold.If the count of gold in a house is prime number ,the robbers will attack that house.They continue to rob the houses in sequential way until the target reached.Your task is to print the total number of house they robbed to reach target.
+Input
+25->Target->integer
+6->No of houses->integer
+7 8 13 3 5 17->Count of gold in each house->Integer
+output
+4->Integer
+
+i/p
+20
+10
+5 7 24 54 13 8 12 34 56 12
+o/p
+3
+
+2.You will be given a string with alpha,numerics and special characters .Your task to reverse the only alpha sequence in the given string.
+Input
+$%AB#N ->String
+Output
+$%NB#A ->String
+
+Input 
+!@6AD$YY
+Output
+!@6YY$DA
+
+
+3.Keshav sir wants to return the maximum number from the given number.Your task is to help keshav sir in this process.
+Input
+341->Int
+Output
+431->int
